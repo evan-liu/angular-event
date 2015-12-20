@@ -1,0 +1,27 @@
+{
+  "name": "angular-event",
+  "main": "./angular-event.js",
+  "description": "Angular scope event wrapper. ",
+  "dependencies": {
+    "angular": "^1.4"
+  },
+  "devDependencies": {
+    "angular-mocks": "~1.4.8"
+  },
+  "keywords": [
+    "angular",
+    "event"
+  ],
+  "authors": [
+    "Evan Liu <evancoding@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "node_modules",
+    "bower_components",
+    "package.json",
+    "karma.conf.js",
+    "gulpfile.js",
+    "*.spec.js"
+  ]
+}
