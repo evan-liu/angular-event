@@ -8,8 +8,12 @@ Angular scope event wrapper.
 
 [![Bower](https://img.shields.io/bower/v/angular-event.svg)]()
 
-```
+```sh
 bower install angular-event  
+```
+
+```javascript
+angular.module('app', ['ng.event']);
 ```
 
 ## Use as global events
