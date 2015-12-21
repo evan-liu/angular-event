@@ -4,6 +4,14 @@ Angular scope event wrapper.
 
 [Demo](http://plnkr.co/Lvw8BG)
 
+## Install
+
+[![Bower](https://img.shields.io/bower/v/angular-event.svg)]()
+
+```
+bower install angular-event  
+```
+
 ## Use as global events
 
 ### Define the event service
